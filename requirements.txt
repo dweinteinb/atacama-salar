@@ -6,3 +6,5 @@ altair
 bokeh
 requests
 pymed
+pytrends
+sklearn
