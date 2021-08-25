@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-header = st.beta_container()
-dataset = st.beta_container()
+header = st.container()
+dataset = st.container()
 
 with header :
     st. title('Search in Pubmed')
